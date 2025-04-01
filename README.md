@@ -1,4 +1,4 @@
-# tlviewer_xx
+# tlviewer_de
 
 Language pack for the [timeline-view-tk](https://github.com/peter88213/timeline-view-tk) application.
 
@@ -10,10 +10,10 @@ Language pack for the [timeline-view-tk](https://github.com/peter88213/timeline-
 
 ### Default: Executable Python zip archive
 
-Download the installation package [tlviewer_xx.pyzw](https://github.com/peter88213/tlviewer_xx/raw/main/tlviewer_xx.pyzw)
+Download the installation package [tlviewer_de.pyzw](https://github.com/peter88213/tlviewer_de/raw/main/tlviewer_de.pyzw)
 
-- Launch *tlviewer_xx.pyzw* by double-clicking (Windows/Linux desktop),
-- or execute `python tlviewer_xx.pyzw` (Windows), resp. `python3 tlviewer_xx.pyzw` (Linux) on the command line.
+- Launch *tlviewer_de.pyzw* by double-clicking (Windows/Linux desktop),
+- or execute `python tlviewer_de.pyzw` (Windows), resp. `python3 tlviewer_de.pyzw` (Linux) on the command line.
 
 #### Important
 
@@ -29,9 +29,9 @@ the zip file.
 
 ### Alternative: Zip file
 
-The package is also available in zip format: [tlviewer_xx.zip](https://github.com/peter88213/tlviewer_xx/raw/main/tlviewer_xx.zip)
+The package is also available in zip format: [tlviewer_de.zip](https://github.com/peter88213/tlviewer_de/raw/main/tlviewer_de.zip)
 
-- Extract the content of the downloaded zipfile "tlviewer_xx.zip" into an empty folder.
+- Extract the content of the downloaded zipfile "tlviewer_de.zip" into an empty folder.
 - Move into this folder and launch *setup.pyw* by double-clicking (Windows/Linux desktop), 
 - or execute `python setup.pyw` (Windows), resp. `python3 setup.pyw` (Linux) on the command line.
 
