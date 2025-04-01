@@ -7,6 +7,10 @@
 **Benutzerhandbuch**
 
 
+Diese Seite bezieht sich auf die aktuelle Ausgabe von 
+[timeline-view-tk](https://github.com/peter88213/timeline-view-tk/). 
+Sie können sie mit **Hilfe \> Online-Hilfe** öffnen.
+
 ## Bedienung
 
 
