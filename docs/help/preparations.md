@@ -4,50 +4,50 @@
 
 # Vorbereitungen
 
-## Setting up the program
+## Das Programm einrichten
 
-The actual installation of the timeline viewer is simple and straightforward.
-The installation program automatically creates an installation directory,
-copies everything necessary into it, and generates a start file named
-**run.pyw** adapted for the respective computer, which must be called
-in order to start the application.
+Die eigentliche Installation des Timeline viewers ist einfach und überschaubar.
+Das Installationsprogramm erstellt automatisch ein Installationsverzeichnis,
+kopiert alles Notwendige hinein und erzeugt eine für den jeweiligen Rechner angepasste 
+Startdatei namens **run.pyw**, die aufgerufen werden muss, um die Anwendung zu starten.
 
 ![Windows screenshot](images/setup01.png)
 
-The necessary manual work consists of linking this start file to the
-desktop and, if desired, assigning a program icon to the link.
+Die notwendige Handarbeit besteht darin, diese Startdatei mit dem Desktop zu verknüpfen und, 
+falls gewünscht, der Verknüpfung ein Programmsymbol zuzuweisen.
 
-For this, you can open the installation directory via a button 
-in the setup script's messaging window.
+Dazu können Sie das Installationsverzeichnis über eine Schaltfläche im Nachrichtenfenster 
+des Setup-Skripts öffnen.
+
 
 ---
 
-**Hint**
+**Hinweis**
 
-- Under Windows, the installation directory is `.tlviewer` in you user profile, 
-e.g. `C:\Users\username\.tlviewer`.
-- Under Linux, the installation directory is `~/.tlviewer`.
+- Unter Windows ist das Installationsverzeichnis `.tlviewer` in Ihrem Benutzerprofil, 
+  z.B. `C:\Users\username\.tlviewer`.
+- Unter Linux ist das Installationsverzeichnis `~/.tlviewer`.
 
 --- 
 
-### Creating a desktop shortcut
+### Eine Desktop-Verknüpfung erstellen
 
-- Under Windows, you can drag and drop the **run.pyw** icon onto the Windows 
-  desktop while holding down the `Alt` key.
+- Unter Windows können Sie das **run.pyw**-Symbol mit gedrückter „Alt“-Taste 
+  auf den Windows-Desktop ziehen und ablegen.
   
   ![Windows screenshot](images/shortcut01.png)
-- Optionally, you can open the shortcut's properties via right-click, 
-  and change the icon. 
-  For this you can select the **tlv64.ico** file in the **icons**
-  folder in the installation directory. 
-- Then you can rename the shortcut.
+- Optional können Sie die Eigenschaften der Verknüpfung mit der rechten Maustaste öffnen, 
+  und das Symbol ändern. 
+  Dazu können Sie die Datei **tlv64.ico** im Ordner **icons** im Installationsverzeichnis 
+  auswählen. 
+- Dann können Sie die Verknüpfung umbenennen.
 
   ![Windows screenshot](images/shortcut02.png)
 
-- Under Linux, you might want to create a program launcher. 
-  Please refer to the documentation of your desktop.   
+- Unter Linux möchten Sie vielleicht einen Programmstarter erstellen. 
+  Lesen Sie dazu bitte die Dokumentation Ihres Desktops.   
     
-  With the XFCE desktop, for example, my launcher command is:
+  Mit dem XFCE-Desktop lautet mein Startbefehl zum Beispiel:
  
   ``python3 /home/peter/.tlviewer/run.pyw %F``
 
