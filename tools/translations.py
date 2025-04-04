@@ -1,16 +1,14 @@
 """Provide a class to handle GNU gettext translation files.
 
 Copyright (c) 2025 Peter Triesberger
-For further information see https://github.com/peter88213/tlviewer_de
+For further information see https://github.com/peter88213/tlviewer_xx
 License: GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0.en.html)
 """
 import sys
 import os
-import json
 from string import Template
 from datetime import datetime
 from settings import *
-
 
 poHeader = '''\
 # ${app} Dictionary (English-${languageName})
