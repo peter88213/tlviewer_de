@@ -48,19 +48,19 @@ um das Programm auf Ihrem Desktop zugänglich zu machen.
     bei gleichzeitig gedrückter `Strg`- und Umschalttaste.
 
 
-### Einen Abschnitt in der Zeit verschieben
+### Ein Ereignis in der Zeit verschieben
 
 -   Halten Sie die Umschalttaste gedrückt und klicken Sie auf den
     Zeitleisteneintrag, dann ziehen Sie ihn mit der Maus. Damit bewegen
-    Sie den Abschnitt in der Zeit vor oder zurück, während die Dauer
+    Sie das Ereignis in der Zeit vor oder zurück, während die Dauer
     erhalten bleibt.
 
-### Das Abschnittsende verschieben
+### Das Ereignisende verschieben
 
 -   Halten Sie die `Strg`- und die Umschalttaste gedrückt und klicken
     Sie auf den Zeitleisteneintrag, dann ziehen Sie ihn mit der Maus.
-    Damit erhöhen oder verringern Sie die Zeitdauer des Abschnitts,
-    während Beginndatum und -zeit erhalten bleiben.
+    Damit erhöhen oder verringern Sie die Zeitdauer des Ereignisses,
+    während Anfangsdatum und -zeit erhalten bleiben.
 
 ---
 

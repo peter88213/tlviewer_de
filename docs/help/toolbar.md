@@ -46,7 +46,7 @@
 ![fitToWindow](images/fitToWindow.png) Ans Fenster anpassen
 
 :   Damit stellen Sie den Maßstab und die Position so ein, dass alle
-    Abschnitte mit gültiger Datum/Zeitinformation ins Fenster passen.
+    Ereignisse mit gültiger Datum/Zeitinformation ins Fenster passen.
 
 ![arrowUp](images/arrowUp.png) Den Zeitmaßstab vergrößern
 
@@ -56,5 +56,5 @@
 ![undo](images/undo.png) Die letzte Änderung rückgängig machen
 
 :   Damit stellen Sie Datum/Uhrzeit/Dauer vor der letzten Mausoperation
-    an einem Abschnitt wieder her.
+    an einem Ereignis wieder her.
 

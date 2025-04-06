@@ -20,5 +20,5 @@ Mit **"Maßstab > Jahre** stellen Sie den Maßstab auf ein Jahr pro Skalenstrich
 ## Ans Fenster anpassen
 
 Mit **"Maßstab > Ans Fenster anpassen** stellen Sie den Maßstab und die 
-Position so ein, dass alle Abschnitte mit gültiger Datum/Zeitinformation ins Fenster passen.
+Position so ein, dass alle Ereignisse mit gültiger Datum/Zeitinformation ins Fenster passen.
 

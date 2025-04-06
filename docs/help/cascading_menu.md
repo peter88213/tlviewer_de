@@ -4,8 +4,8 @@
 
 # "Kaskadieren"-Menü
 
-Die Abschnitte werden in der Ereignisdarstellung gestapelt, damit sie
-sich nicht überlappen oder den Titel des vorhergehenden Abschnitts
+Die Ereignisse werden unter der Zeitskala gestapelt, damit sie
+sich nicht überlappen oder den Titel des vorhergehenden Ereignisses
 verdecken. Sollte Ihnen der Stapelagorithmus nicht gut genug erscheinen,
 können Sie die Abstandsgrenzen für das Stapeln anders einstellen.
 

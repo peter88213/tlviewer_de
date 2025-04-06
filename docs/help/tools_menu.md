@@ -10,10 +10,10 @@
 
 Mit **Extras > Optioen > Benutze 00:00 für fehlende Zeiten** erhalten Sie ein Auswahlfeld.
 
--   Wenn dieses Feld angekreuzt ist, wird "00:00" für Abschnitte
+-   Wenn dieses Feld angekreuzt ist, wird "00:00" für Ereignisse
     ohne Zeitangaben verwendet. Dies hat keinen Einfluss auf die
-    Eigenschaften des Abschnitts.
--   Wenn dieses Feld nicht angekreuzt ist, werden Abschnitte ohne
+    Eigenschaften des Ereignisses.
+-   Wenn dieses Feld nicht angekreuzt ist, werden Ereignisse ohne
     Zeitangabe nicht angezeigt.
      
 ### Große Symbole in der Werkzeugleiste
