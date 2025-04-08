@@ -24,8 +24,8 @@ können Sie eine existierende Projektdatei öffnen.
 - This will close the current project. 
   Falls es ungesicherte Änderungen gibt, werden Sie gefragt, ob Sie sie sichern wollen.
   Hier können Sie den Vorgan auch abbrechen.
-- A file select dialog asks for the new project’s file name.
-  If you cancel the dialog the action is aborted.
+- Ein Dateiauswahldialog fragt nach der Projektdatei.
+  Wenn sie den Dialog abbrechen, wird der ganze Vorgang abgebrochen.
 
 
 ## Neu laden
