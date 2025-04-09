@@ -1,6 +1,8 @@
 # tlviewer_de
 
 Language pack for the [timeline-view-tk](https://github.com/peter88213/timeline-view-tk) application.
+If this language pack is installed, and your system language is German, the Timeline viewer 
+user interface is in German, and German help pages are assigned to the help menu entry. 
 
 ---
 
