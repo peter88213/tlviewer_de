@@ -6,7 +6,8 @@ Home
 
 ## Inhalt
 
-- [GitHub Projektseite (englisch)](https://github.com/peter88213/timeline-view-tk)
+- [timeline-view-tk Projektseite (englisch)](https://github.com/peter88213/timeline-view-tk)
+- [tlviewer_de Projektseite (englisch)](https://github.com/peter88213/tlviewer_de)
 - [Benutzerhandbuch](help)
 - [Rückmeldungen und Fragen](https://github.com/peter88213/timeline-view-tk/discussions)
 - [Einen Fehler melden (englisch)](https://github.com/peter88213/timeline-view-tk/issues)
